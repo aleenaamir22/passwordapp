@@ -97,7 +97,7 @@ elif page == "Password Generator":
 
 #AboutPage
 elif page == "About":
-    st.title("📜 Abou SecurePass")
+    st.title("📜 About SecurePass")
     st.markdown("""
     **SecurePass** is an all-in-one password management tool that helps users **evaluate password strength** 
     and **generate secure passwords** for online security.This app is developed by  **Aleena Amir**.
